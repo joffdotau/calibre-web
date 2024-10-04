@@ -1,0 +1,11 @@
+{
+  "name": "calibre-web",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'No build needed for Calibre Web'",
+    "start": "docker-compose up -d",
+    "install": "yarn install"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
